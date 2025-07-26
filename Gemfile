@@ -3,7 +3,7 @@ source "http://rubygems.org"
 
 gem "rcs-common", ">= 9.2.3", :path => "../rcs-common"
 
-gem 'em-http-request', "=1.0.3" # > 1.0.3 version does not work under Windows
+gem 'em-http-request', '= 1.1.0' # > 1.0.3 version does not work under Windows
 gem 'em-websocket'
 gem 'em-http-server', ">= 0.1.7"
 
@@ -23,7 +23,7 @@ gem 'activesupport'
 gem 'rest-client'
 gem 'xml-simple'
 gem 'persistent_http'
-gem 'mongoid', ">= 3.0.0"
+gem 'mongoid', '>= 7.0.12'
 gem 'rvincenty'
 gem 'colorize'
 
