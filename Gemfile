@@ -23,7 +23,7 @@ gem 'activesupport'
 gem 'rest-client'
 gem 'xml-simple'
 gem 'persistent_http'
-gem 'mongoid', ">= 3.0.0"
+gem 'mongoid', '>= 7.6.1'
 gem 'rvincenty'
 gem 'colorize'
 
